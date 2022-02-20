@@ -14,6 +14,9 @@ Main features implemented are;
 - Import favourite articles.
 - Display a detailed view of a imported article.
 
+## Video demonstration
+
+[![Watch the video](https://github.com/devni-heraliyawala/news-hub-backend/blob/master/Codification%20Assignment%20Video%20Thumbnail.png)](https://drive.google.com/file/d/1YGQ2ZkK_87r-qj2W01O3BqE_wXGU1wnJ/view?usp=sharing)
 
 ## Technologies and Services
 Technologies
