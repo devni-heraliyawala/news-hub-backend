@@ -9,7 +9,7 @@ import { ConfigService } from '@nestjs/config';
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
   const configService = app.get(ConfigService);
-  const port = configService.get('PORT') || 3001;
+  const port = configService.get('PORT') || 3000;
   const origin = configService.get('ORIGIN');
   
   app.use(cookieParser());

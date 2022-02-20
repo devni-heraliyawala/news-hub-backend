@@ -41,8 +41,8 @@ Services
 - Use [Environment Variables]() to manage configuration inside your application. Edit the `.env.stage.dev` file accordingly.
 - News Hub frontend can be found from [here](https://github.com/devni-heraliyawala/news-hub-frontend).
 - News API backend can be found from [here](https://github.com/devni-heraliyawala/news-hub-backend).
-- Default port of `3001` is used for the backend.
-- Default port of `3000` is used for the frontend.
+- Default port of `3000` is used for the backend.
+- Default port of `3001` is used for the frontend.
 - NodeJS backend should be updated, configured and run successfully to start the frontend properly.
 
 ## Installation
