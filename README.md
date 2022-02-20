@@ -10,6 +10,10 @@ Main features implemented are;
 - Article discovery and analysis using [Everything](https://newsapi.org/docs/endpoints/everything) endpoint.
 - Retrieve live top and breaking headlines using [Top-Headlines](https://newsapi.org/docs/endpoints/top-headlines) endpoint.
 - Retrieve publishers available on the API using [Sources](https://newsapi.org/docs/endpoints/sources) endpoint.
+- Retrieve articles according to the filter criterias
+- Import favourite articles
+- Display a detailed view of a imported article
+
 
 ## Technologies and Services
 Technologies
