@@ -1,9 +1,9 @@
-# News Hub
+# News Hub Backend
 
 ## Description
 This project demonstrate a simple NEWS hub feature which was given as a SSE technical test at Codification using [News API](https://newsapi.org/). (Backend only). 
 
-This project is a simple application of [News API]() for searching and retrieving live articles from all over the web. The News hub project allows users to search articles through diffrent filter criterias and import necessary articles. Users can later retrieve the imported articles via "Favourites" tab and display a detailed view of the article.
+This project is a simple application of [News API](https://newsapi.org/) for searching and retrieving live articles from all over the web. The News hub project allows users to search articles through diffrent filter criterias and import necessary articles. Users can later retrieve the imported articles via "Favourites" tab and display a detailed view of the article.
 
 Main features implemented are;
 
@@ -15,6 +15,7 @@ Main features implemented are;
 Technologies
 - [NodeJS](https://nodejs.org/) -  A platform built on Chrome's JS runtime for easily building fast, scalable network apps.
 - [TypeScript](https://www.typescriptlang.org/) - A strongly typed programming language that builds on JavaScript, gives better tooling at any scale.
+- [JavaScript](https://www.w3schools.com/js/default.asp) - A programming language of the Web.
 - [NestJS](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
 - [TypeORM](https://typeorm.io/) -  An ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7, ES8).
 - [ExpressJS](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js.
