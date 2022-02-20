@@ -10,9 +10,9 @@ Main features implemented are;
 - Article discovery and analysis using [Everything](https://newsapi.org/docs/endpoints/everything) endpoint.
 - Retrieve live top and breaking headlines using [Top-Headlines](https://newsapi.org/docs/endpoints/top-headlines) endpoint.
 - Retrieve publishers available on the API using [Sources](https://newsapi.org/docs/endpoints/sources) endpoint.
-- Retrieve articles according to the filter criterias
-- Import favourite articles
-- Display a detailed view of a imported article
+- Retrieve articles according to the filter criterias.
+- Import favourite articles.
+- Display a detailed view of a imported article.
 
 
 ## Technologies and Services
@@ -41,8 +41,8 @@ Services
 - Use [Environment Variables]() to manage configuration inside your application. Edit the `.env.stage.dev` file accordingly.
 - News Hub frontend can be found from [here](https://github.com/devni-heraliyawala/news-hub-frontend).
 - News API backend can be found from [here](https://github.com/devni-heraliyawala/news-hub-backend).
-- Default port of `3000` is used for the backend.
-- Default port of `3001` is used for the frontend.
+- Default port of `3001` is used for the backend.
+- Default port of `3000` is used for the frontend.
 - NodeJS backend should be updated, configured and run successfully to start the frontend properly.
 
 ## Installation
